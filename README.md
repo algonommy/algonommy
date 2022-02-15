@@ -6,7 +6,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=algonommy.algonommy)
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=algonommy&margin-w=15)](https://github.com/algonommy/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=algonommy&margin-w=15)](https://github.com/algonommy/)
 
 
 <h3 align="left">Languages and Tools:</h3>
